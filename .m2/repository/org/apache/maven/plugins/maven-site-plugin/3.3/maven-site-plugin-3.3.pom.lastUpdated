@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Feb 21 20:37:37 IST 2020
-@default-central-http\://repo.maven.apache.org/maven2/.lastUpdated=1582297657863
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-site-plugin\:pom\:3.3 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer file http\://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom with status code 501
